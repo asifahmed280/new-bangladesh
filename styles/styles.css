@@ -1,0 +1,185 @@
+/*main styles*/
+.banner {
+    width: auto;
+    height: 600px;
+    text-align: center;
+    margin: 30px 120px 0px 100px;
+}
+
+.banner-2 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 120px;
+}
+
+.banner-2 h1 {
+    color: #FF0000;
+    font-size: 88px;
+}
+
+.banner-2 h5 {
+    color: #FF0000;
+    font-size: 24px;
+    margin-bottom: 0px;
+
+}
+
+.banner-2 h2 {
+    font-size: 48px;
+}
+
+
+
+.banner-3 {
+    background-image: url("images/Vectorrr.png");
+    background-repeat: no-repeat;
+    color: white;
+    width: auto;
+    height: 600;
+    text-align: center;
+    margin: 0px 120px;
+    font-weight: 88px;
+    text-transform: right bottom;
+    padding: 0px 100px;
+}
+
+.banner-3-flex {
+    display: flex;
+}
+
+.banner-3 h1 {
+    font-size: 64px;
+    font-weight: 88px;
+}
+
+.banner p {
+    font-size: 18px;
+    font-weight: 30px;
+}
+
+.information {
+    text-align: center;
+    background-color: cornsilk;
+    padding: 58px 400px 153px 302px;
+    justify-content: center;
+    margin: 120px 140px;
+    font-size: 32px;
+    font-weight: 56px;
+    font: bold;
+}
+
+span {
+    color: red;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+    width: 120px;
+    height: 50px;
+    border: 0px;
+    border-radius: 5px;
+    margin-bottom: 0px;
+}
+
+.image {
+    text-align: right;
+    padding: 120px;
+}
+
+div .display {
+    display: flex;
+}
+
+.banner-4 {
+    text-align: center;
+    background-image: url("images/Rectangle\ 2.png");
+    background-position-x: ;
+}
+
+.banner-4 h4 {
+    font-size: 24px;
+    margin-bottom: 0px;
+    padding: 0px 120px;
+}
+
+.banner-4 h1 {
+    font-size: 72px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.banner-5 {
+    margin: 50px 120px 50px 120px;
+}
+
+.banner-5 h6 {
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+
+.banner-5 h2 {
+    font-size: 48px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 0px 100px;
+
+}
+
+.banner-6 {
+    text-align: center;
+    margin: 50px 120px 20px 120px;
+    padding: 0px 120px 10px 120px;
+}
+
+/*footer styles*/
+footer {
+    background-color: #070211;
+    color: white;
+    background-size: cover;
+    width: auto;
+    height: auto;
+}
+
+.footer-details {
+    display: flex;
+    padding: 30px 150px 50px 120px;
+    justify-content: space-between;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.footer-details h6 {
+    margin-bottom: 1px;
+}
+
+div .contact a {
+    text-decoration: none;
+    color: white;
+    font size: 24px;
+}
+
+hr {
+    color: #FFFFFF;
+    opacity: 15%;
+}
+
+.icon {
+    text-align: center;
+    margin-right: 0px 24px;
+}
+
+.copyrights {
+    justify-content: space-between;
+    display: flex;
+    padding: 0px 80px 10px 120px;
+    font-size: 24px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
